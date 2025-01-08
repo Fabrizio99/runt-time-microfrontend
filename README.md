@@ -10,7 +10,6 @@ Tools:
 ## Architecture
 ![Diagram](media/diagram.png)
 
-
 ## Run project
 - Install dependencies in all modules using `pnpm init`
 - Compile remote modules (Auth and Home) using the command `pnpm start`
